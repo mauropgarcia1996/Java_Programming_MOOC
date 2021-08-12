@@ -31,5 +31,13 @@ public class VariableTypes {
             System.out.println("New Weight: " + typeDouble);
         }
 
+
+        // Math Operations
+
+        int addition = 4 + 4;
+        int subtraction = 4 - 2;
+        int division = 4 / 2;
+        int multiplication = 4 * 2;
+
     }
 }
